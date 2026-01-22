@@ -20,7 +20,7 @@
 - Technical discussions and knowledge sharing
 
 ## 📫 Get in Touch
-- **Email:** antonova.ssh@gmail.com
+- **Email:** o.antonova@proton.me
 - **LinkedIn:** [linkedin.com/in/antonovassh](https://www.linkedin.com/in/antonovassh)
 
 ---
