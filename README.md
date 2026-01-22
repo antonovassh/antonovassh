@@ -1,31 +1,28 @@
-👋 Hi, I’m Antonova Oleksandra
+# 👋 Hi, I'm Oleksandra Antonova
 
-I'm a beginner programmer with a passion for C#, ASP.NET, and .NET Framework. When I'm not coding, I enjoy walking my dog and watching movies.
+.NET developer with practical experience in C#, ASP.NET, and CRM system integrations. I enjoy building scalable web applications and solving real-world problems through clean code.
 
-👀 I’m interested in:
-- C# programming
-- ASP.NET development
-- .NET Framework projects
-- Web development
-- Software engineering
-- Problem-solving and learning new technologies
+## 🛠️ Tech Stack
+- **Languages:** C#
+- **Frameworks:** ASP.NET Core, .NET Framework
+- **Tools:** Git, Visual Studio, RESTful APIs
+- **Experience:** CRM integrations, web services, database management
 
-🌱 I’m currently learning:
-- Advanced C# concepts
-- ASP.NET Core
-- Building web applications
-- Version control with Git
-- Best coding practices and design patterns
+## 🌱 Currently Learning
+- Microservices architecture
+- Advanced design patterns
+- Cloud technologies (Azure)
+- Performance optimization
 
-💞️ I’m looking to collaborate on:
-- Open-source C# projects
+## 💼 What I'm Looking For
+- Open-source collaboration opportunities
 - Web development projects
-- Learning and sharing knowledge with fellow developers
-- Any exciting project that aligns with my interests and skills
+- Technical discussions and knowledge sharing
 
-📫 How to reach me:
-- You can reach out to me via email at antonova.ssh@gmail.com
-- Connect with me on LinkedIn: www.linkedin.com/in/antonovassh
+## 📫 Get in Touch
+- **Email:** antonova.ssh@gmail.com
+- **LinkedIn:** [linkedin.com/in/antonovassh](https://www.linkedin.com/in/antonovassh)
 
+---
 
-Feel free to explore my repositories to see some of my coding projects. I'm always open to collaboration and learning from the community, so don't hesitate to get in touch!
+*Feel free to explore my repositories and reach out if you'd like to collaborate!*
